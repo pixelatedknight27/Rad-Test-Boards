@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AZ1117CH-3.3TRG1")(type "Legacy")(uri "${KIPRJMOD}/Extra Libraries Folder/LIB_AZ1117CH-3.3TRG1 (1)/AZ1117CH-3.3TRG1/KiCad/AZ1117CH-3.3TRG1.lib")(options "")(descr ""))
+)
