@@ -278,7 +278,7 @@
 
   (footprint "Adafruit ItsyBitsy RP2040:SOD-323F" (layer "F.Cu")
     (tstamp 0c818cdc-dd97-478a-ae28-19ac3a3f395c)
-    (at 23 86)
+    (at 23 85)
     (property "Sheetfile" "Flash Mother Board.kicad_sch")
     (property "Sheetname" "")
     (path "/5d9a4bdf-339a-4f58-a562-542aaaf47162")
@@ -834,7 +834,7 @@
 
   (footprint "3.3VRegForUSB:SOT230P700X180-4N" (layer "F.Cu")
     (tstamp 4fc26d16-43e0-4cd0-abd9-4bfff288dfa7)
-    (at 51 98)
+    (at 53 96)
     (descr "SOT-223-")
     (tags "Integrated Circuit")
     (property "Description" "1.35A 3.3V LDO Reg. Current Limit SOT223 DiodesZetex AZ1117CH-3.3TRG1, LDO Voltage Regulator, 0.8A, 3.3 V +/-1%, maximum of 15 Vin, 3-Pin SOT-223")
@@ -1395,7 +1395,7 @@
 
   (footprint "Adafruit ItsyBitsy RP2040:BTN_KMR2_4.6X2.8" (layer "F.Cu")
     (tstamp 9dc1c11f-10a6-4988-80f0-2a74dd2276dd)
-    (at 60.3 95.57 90)
+    (at 43 104 90)
     (property "Sheetfile" "Flash Mother Board.kicad_sch")
     (property "Sheetname" "")
     (path "/7c202c97-b599-4cc3-9795-62b9ec26576c")
