@@ -1,0 +1,75 @@
+(footprint "SC70-5" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "<b>SMT SC70-5</b><p>\nSOT353 - Philips Semiconductors<br>\nSource: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_HCT1G66_3.pdf")
+  (fp_text reference "REF**" (at -2.54 -1.27) (layer "F.SilkS")
+      (effects (font (size 1.1684 1.1684) (thickness 0.1016)) (justify left bottom))
+    (tstamp 3042fa6f-5930-46cb-98b8-fae98cd6f557)
+  )
+  (fp_text value "SC70-5" (at -2.54 2.54) (layer "F.Fab")
+      (effects (font (size 1.1684 1.1684) (thickness 0.1016)) (justify left bottom))
+    (tstamp be7a0184-b356-412d-9952-d46d7bd3cb17)
+  )
+  (fp_line (start -1 -0.55) (end -1 0.55)
+    (stroke (width 0.127) (type solid)) (layer "F.SilkS") (tstamp 2d1fbad9-0481-40a0-9d47-e4350449af20))
+  (fp_line (start 1 0.55) (end 1 -0.55)
+    (stroke (width 0.127) (type solid)) (layer "F.SilkS") (tstamp 9768f179-0e7f-4974-ba6d-b8169d5a4111))
+  (fp_line (start -1 0.55) (end 1 0.55)
+    (stroke (width 0.127) (type solid)) (layer "F.Fab") (tstamp af8b8b75-cbf5-4bdc-97d0-9d3f973fc0df))
+  (fp_line (start 1 -0.55) (end -1 -0.55)
+    (stroke (width 0.127) (type solid)) (layer "F.Fab") (tstamp 6c7c7845-fab8-4e66-9ecc-d484b70bc388))
+  (fp_poly
+    (pts
+      (xy -0.775 -0.6)
+      (xy -0.525 -0.6)
+      (xy -0.525 -1.05)
+      (xy -0.775 -1.05)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 0c91e3bb-bba8-44db-a650-eb2a845a5c10))
+  (fp_poly
+    (pts
+      (xy -0.775 1.05)
+      (xy -0.525 1.05)
+      (xy -0.525 0.6)
+      (xy -0.775 0.6)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 4979c338-d7fd-4cbd-ada5-3598324a1fb8))
+  (fp_poly
+    (pts
+      (xy -0.125 1.05)
+      (xy 0.125 1.05)
+      (xy 0.125 0.6)
+      (xy -0.125 0.6)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 5a809b3b-faa2-4d19-a506-0cac30a49252))
+  (fp_poly
+    (pts
+      (xy 0.525 -0.6)
+      (xy 0.775 -0.6)
+      (xy 0.775 -1.05)
+      (xy 0.525 -1.05)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp caf6bfad-cb94-4f6c-a1bf-b26bc51c7ca9))
+  (fp_poly
+    (pts
+      (xy 0.525 1.05)
+      (xy 0.775 1.05)
+      (xy 0.775 0.6)
+      (xy 0.525 0.6)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 2a946c7a-ae3e-48c2-bea0-f284a38aca07))
+  (pad "1" smd rect (at -0.65 0.85) (size 0.4 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.0508) (thermal_bridge_angle 0) (tstamp 81cef330-6795-4f23-83bc-7c03276161c3))
+  (pad "2" smd rect (at 0 0.85) (size 0.4 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.0508) (thermal_bridge_angle 0) (tstamp 6c185810-5f15-45a8-9758-3abfa43e6239))
+  (pad "3" smd rect (at 0.65 0.85) (size 0.4 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.0508) (thermal_bridge_angle 0) (tstamp d9791311-b86b-4586-a314-77a38535d6b2))
+  (pad "4" smd rect (at 0.65 -0.85) (size 0.4 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.0508) (thermal_bridge_angle 0) (tstamp 1d473197-2db0-40ee-9ee5-f7763206d87d))
+  (pad "5" smd rect (at -0.65 -0.85) (size 0.4 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.0508) (thermal_bridge_angle 0) (tstamp b816ddbe-028b-48a1-ad66-1a0f8feeccd1))
+)
