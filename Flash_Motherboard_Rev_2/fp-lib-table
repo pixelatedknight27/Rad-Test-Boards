@@ -4,4 +4,5 @@
   (lib (name "3.3VRegForUSB")(type "KiCad")(uri "${KIPRJMOD}/Extra Libraries Folder/LIB_AZ1117CH-3.3TRG1 (1)/AZ1117CH-3.3TRG1/KiCad")(options "")(descr ""))
   (lib (name "Molex_SD")(type "KiCad")(uri "${KIPRJMOD}/Extra Libraries Folder/LIB_104031-0811/104031-0811/KiCad")(options "")(descr ""))
   (lib (name "Molex USB Micro B")(type "KiCad")(uri "${KIPRJMOD}/Extra Libraries Folder/105164-0001 (1)")(options "")(descr ""))
+  (lib (name "ul_1051640001")(type "KiCad")(uri "${KIPRJMOD}/Extra Libraries Folder/ul_1051640001/KiCADv6/footprints.pretty")(options "")(descr ""))
 )
