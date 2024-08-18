@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"J1, J2",PinSocket_1x20_P2.54mm_Vertical,2,Conn_01x20,
+J3,USB_A_TE_292303-7_Horizontal,1,USB_A,
+J4,USB_Micro-B_Amphenol_10103594-0001LF_Horizontal,1,USB_B_Micro,
+J5,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03_Pin,
+J6,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02_Pin,
+"U1, U2",RPi_Pico_SMD_TH,2,Pico,
